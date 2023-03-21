@@ -7,7 +7,7 @@ from PIL import ImageGrab
 
 
 def main():
-    # maximums = calibrate()  <--- pass to emg_reader
+    # maxima = calibrate()  <--- pass to emg_reader
     emg_reader()
 
 
